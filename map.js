@@ -1,5 +1,8 @@
 var myMap,gMap;
 
+$(document).ready(function() {
+    alert("Varun Forked this")
+});
 
 function initMap(){
     myMap=document.getElementById('map');
